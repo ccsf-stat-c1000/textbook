@@ -188,6 +188,18 @@
     <loc>http://localhost:3000/pages/m05-summary-eda</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/pages/m06-introduction-to-producing-data</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pages/m06-sampling-1-of-2</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pages/m06-sampling-2-of-2</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pages/m06-wrap-up-sampling</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/pages/m07-designing-studies</loc>
   </url>
   <url>
