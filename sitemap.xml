@@ -5,19 +5,64 @@
     <loc>http://localhost:3000</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m01-welcome</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/pages/m02-strategies-for-learning</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/pages/m02-developing-skills-for-independent-learning-1-o</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/pages/m02-developing-skills-for-independent-learning-2-o</loc>
-  </url>
-  <url>
     <loc>http://localhost:3000/pages/m03-the-big-picture</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pages/m06-introduction-to-producing-data</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pages/m06-sampling-1-of-2</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pages/m06-sampling-2-of-2</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pages/m06-wrap-up-sampling</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pages/m07-designing-studies</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pages/m07-introduction</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pages/m07-identifying-study-design-1-of-2</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pages/m07-identifying-study-design-2-of-2</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pages/m07-causation-and-observational-studies-1-of-2</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pages/m07-causation-and-observational-studies-2-of-2</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pages/m07-causation-and-experiments-1-of-3</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pages/m07-causation-and-experiments-2-of-3</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pages/m07-causation-and-experiments-3-of-3</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pages/m07-experiments-with-more-than-one-explanatory-var</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pages/m07-modifications-to-randomization</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pages/m07-sample-surveys-1-of-2</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pages/m07-sample-surveys-2-of-2</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pages/m07-wrap-up-designing-studies</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/pages/m07-summary-producing-data</loc>
   </url>
   <url>
     <loc>http://localhost:3000/pages/m04-exploratory-data-analysis-1-of-2</loc>
@@ -183,63 +228,6 @@
   </url>
   <url>
     <loc>http://localhost:3000/pages/m05-summary-eda</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/pages/m06-introduction-to-producing-data</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/pages/m06-sampling-1-of-2</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/pages/m06-sampling-2-of-2</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/pages/m06-wrap-up-sampling</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/pages/m07-designing-studies</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/pages/m07-introduction</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/pages/m07-identifying-study-design-1-of-2</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/pages/m07-identifying-study-design-2-of-2</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/pages/m07-causation-and-observational-studies-1-of-2</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/pages/m07-causation-and-observational-studies-2-of-2</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/pages/m07-causation-and-experiments-1-of-3</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/pages/m07-causation-and-experiments-2-of-3</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/pages/m07-causation-and-experiments-3-of-3</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/pages/m07-experiments-with-more-than-one-explanatory-var</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/pages/m07-modifications-to-randomization</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/pages/m07-sample-surveys-1-of-2</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/pages/m07-sample-surveys-2-of-2</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/pages/m07-wrap-up-designing-studies</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/pages/m07-summary-producing-data</loc>
   </url>
   <url>
     <loc>http://localhost:3000/pages/m08-probability</loc>
@@ -741,8 +729,5 @@
   </url>
   <url>
     <loc>http://localhost:3000/pages/m17-summary-inference</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/notebooks/notebook06</loc>
   </url>
 </urlset>
