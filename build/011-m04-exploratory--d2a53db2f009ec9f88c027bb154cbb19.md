@@ -1,0 +1,79 @@
+# Data and Variables: The Raw Material of Statistics
+
+Before we jump into exploratory data analysis and really appreciate its importance in the process of statistical analysis, let's step back for a minute and ask:
+
+What do we really mean by *data*?
+
+*Data* are pieces of information about individuals organized into variables. By an {term}`individual <individuals>`, we mean a particular person or object. By a {term}`variable`, we mean a particular characteristic of the individual.
+
+A *dataset* is a set of data identified with particular circumstances. Datasets are typically displayed in tables, in which rows represent individuals and columns represent variables.
+
+:::{admonition} Example: Medical Records
+:class: tip
+
+The following dataset shows medical records from a particular survey:
+
+| Individual | Gender (M/F) | Age | Weight (lbs.) | Height (in.) | Smoking (1=No, 2=Yes) | Race |
+| --- | --- | --- | --- | --- | --- | --- |
+| Patient #1 | M | 59 | 175 | 69 | 1 | White |
+| Patient #2 | F | 67 | 140 | 62 | 2 | Black |
+| Patient #3 | F | 73 | 155 | 59 | 1 | Asian |
+| ... | ... | ... | ... | ... | ... | ... |
+| Patient #75 | M | 48 | 90 | 72 | 1 | White |
+
+Each row represents an individual (a patient), and each column represents a variable.
+
+In this example, the individuals are patients, and the variables are Gender, Age, Weight, Height, Smoking, and Race. Each row, then, gives us all the information about a particular individual (in this case, patient), and each column gives us information about a particular characteristic of all the patients.
+:::
+
+Variables can be classified into one of two types: categorical or quantitative.
+
+- {term}`Categorical variables <categorical variable>` take category or label values and place an individual into one of several groups. Each observation can be placed in *only* one category, and the categories are mutually exclusive. In our example of medical records, Smoking is a categorical variable, with two groups, since each participant can be categorized only as either a nonsmoker or a smoker. Gender and Race are the two other categorical variables in our medical records example. Notice that the values of the categorical variable Smoking have been coded as the numbers 1 or 2. It is common to code the values of a categorical variable as numbers, but you should remember that these are just codes. They have no arithmetic meaning (i.e., it does not make sense to add, subtract, multiply, divide, or compare the magnitude of such values).
+- {term}`Quantitative variables <quantitative variable>` take numerical values and represent some kind of measurement. In our medical example, Age is an example of a quantitative variable because it can take on multiple numerical values. It also makes sense to think about it in numerical form; that is, a person can be 18 years old or 80 years old. Weight and Height are also examples of quantitative variables.
+
+```{note}
+Categorical variables are sometimes called *qualitative* variables, but in this course we use the term categorical.
+```
+
+## Check Your Understanding: Individuals and Variables
+We took a random sample from the 2000 U.S. Census. Here is part of the dataset:
+
+|   | State | Zipcode | Family_Size | Annual_income |
+| --- | --- | --- | --- | --- |
+| 1 | Florida | 32716 | 8 | 200 |
+| 2 | Alabama | 35236 | 5 | 800 |
+| 3 | Florida | 32116 | 6 | 13500 |
+| 4 | Florida | 33679 | 5 | 21000 |
+| 5 | Alabama | 36374 | 4 | 21000 |
+| 6 | California | 94565 | 1 | 23000 |
+
+:::{quiz} Who are the individuals described by this data?
+:hint: Individuals are the people or objects described by the data.
+:feedback-0: State is a variable.
+:feedback-1: People with families are a subset of this sample, but the individuals represent a larger group.
+:feedback-2: The U.S. Census is completed by people living in the United States.
+* States
+* People with families in the year 2000
+* *People living in the United States in the year 2000
+:::
+
+:::{quiz} What type of variable is zipcode?
+:hint: A categorical variable puts individuals into categories. A quantitative variable is a numerical measurement that can be averaged.
+:explanation: Zipcode is a categorical variable because it categorizes individuals by geographic location.
+* Quantitative
+* *Categorical
+:::
+
+:::{quiz} What type of variable is Family_Size?
+:hint: A categorical variable puts individuals into categories. A quantitative variable is a numerical measurement that can be averaged.
+:explanation: Family_Size is a variable with numerical values that can be averaged.
+* *Quantitative
+* Categorical
+:::
+
+:::{quiz} What type of variable is Annual_income?
+:hint: A categorical variable puts individuals into categories. A quantitative variable is a numerical measurement that can be averaged.
+:explanation: Annual_income is a variable with numerical values that can be averaged.
+* *Quantitative
+* Categorical
+:::

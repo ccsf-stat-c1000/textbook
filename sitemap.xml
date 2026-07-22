@@ -730,4 +730,7 @@
   <url>
     <loc>http://localhost:3000/pages/m17-summary-inference</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/pages/glossary</loc>
+  </url>
 </urlset>
