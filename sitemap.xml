@@ -5,730 +5,727 @@
     <loc>http://localhost:3000</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m03-the-big-picture</loc>
+    <loc>http://localhost:3000/pages/p067-m06-introduction-to-producing-data</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m06-introduction-to-producing-data</loc>
+    <loc>http://localhost:3000/pages/p069-m06-sampling-1-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m06-sampling-1-of-2</loc>
+    <loc>http://localhost:3000/pages/p070-m06-sampling-2-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m06-sampling-2-of-2</loc>
+    <loc>http://localhost:3000/pages/p071-m06-wrap-up-sampling</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m06-wrap-up-sampling</loc>
+    <loc>http://localhost:3000/pages/p073-m07-designing-studies</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m07-designing-studies</loc>
+    <loc>http://localhost:3000/pages/p074-m07-introduction</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m07-introduction</loc>
+    <loc>http://localhost:3000/pages/p075-m07-identifying-study-design-1-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m07-identifying-study-design-1-of-2</loc>
+    <loc>http://localhost:3000/pages/p076-m07-identifying-study-design-2-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m07-identifying-study-design-2-of-2</loc>
+    <loc>http://localhost:3000/pages/p077-m07-causation-and-observational-studies-1-of-</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m07-causation-and-observational-studies-1-of-2</loc>
+    <loc>http://localhost:3000/pages/p078-m07-causation-and-observational-studies-2-of-</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m07-causation-and-observational-studies-2-of-2</loc>
+    <loc>http://localhost:3000/pages/p079-m07-causation-and-experiments-1-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m07-causation-and-experiments-1-of-3</loc>
+    <loc>http://localhost:3000/pages/p080-m07-causation-and-experiments-2-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m07-causation-and-experiments-2-of-3</loc>
+    <loc>http://localhost:3000/pages/p081-m07-causation-and-experiments-3-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m07-causation-and-experiments-3-of-3</loc>
+    <loc>http://localhost:3000/pages/p082-m07-experiments-with-more-than-one-explanator</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m07-experiments-with-more-than-one-explanatory-var</loc>
+    <loc>http://localhost:3000/pages/p083-m07-modifications-to-randomization</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m07-modifications-to-randomization</loc>
+    <loc>http://localhost:3000/pages/p084-m07-sample-surveys-1-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m07-sample-surveys-1-of-2</loc>
+    <loc>http://localhost:3000/pages/p085-m07-sample-surveys-2-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m07-sample-surveys-2-of-2</loc>
+    <loc>http://localhost:3000/pages/p086-m07-wrap-up-designing-studies</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m07-wrap-up-designing-studies</loc>
+    <loc>http://localhost:3000/pages/p087-m07-summary-producing-data</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m07-summary-producing-data</loc>
+    <loc>http://localhost:3000/pages/p010-m04-exploratory-data-analysis-1-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-exploratory-data-analysis-1-of-2</loc>
+    <loc>http://localhost:3000/pages/p011-m04-exploratory-data-analysis-2-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-exploratory-data-analysis-2-of-2</loc>
+    <loc>http://localhost:3000/pages/p013-m04-examining-distributions</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-examining-distributions</loc>
+    <loc>http://localhost:3000/pages/p014-m04-one-categorical-variable-1-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-one-categorical-variable-1-of-3</loc>
+    <loc>http://localhost:3000/pages/p015-m04-one-categorical-variable-2-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-one-categorical-variable-2-of-3</loc>
+    <loc>http://localhost:3000/pages/p016-m04-one-categorical-variable-3-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-one-categorical-variable-3-of-3</loc>
+    <loc>http://localhost:3000/pages/p017-m04-one-quantitative-variable</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-one-quantitative-variable</loc>
+    <loc>http://localhost:3000/pages/p018-m04-graphs</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-graphs</loc>
+    <loc>http://localhost:3000/pages/p019-m04-histogram-1-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-histogram-1-of-3</loc>
+    <loc>http://localhost:3000/pages/p020-m04-histogram-2-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-histogram-2-of-3</loc>
+    <loc>http://localhost:3000/pages/p021-m04-histogram-3-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-histogram-3-of-3</loc>
+    <loc>http://localhost:3000/pages/p022-m04-stemplot</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-stemplot</loc>
+    <loc>http://localhost:3000/pages/p023-m04-numerical-measures</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-numerical-measures</loc>
+    <loc>http://localhost:3000/pages/p024-m04-measures-of-center-1-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-measures-of-center-1-of-2</loc>
+    <loc>http://localhost:3000/pages/p025-m04-measures-of-center-2-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-measures-of-center-2-of-2</loc>
+    <loc>http://localhost:3000/pages/p026-m04-measures-of-spread-1-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-measures-of-spread-1-of-5</loc>
+    <loc>http://localhost:3000/pages/p027-m04-measures-of-spread-2-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-measures-of-spread-2-of-5</loc>
+    <loc>http://localhost:3000/pages/p028-m04-measures-of-spread-3-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-measures-of-spread-3-of-5</loc>
+    <loc>http://localhost:3000/pages/p029-m04-measures-of-spread-4-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-measures-of-spread-4-of-5</loc>
+    <loc>http://localhost:3000/pages/p030-m04-measures-of-spread-5-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-measures-of-spread-5-of-5</loc>
+    <loc>http://localhost:3000/pages/p031-m04-boxplot-1-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-boxplot-1-of-3</loc>
+    <loc>http://localhost:3000/pages/p032-m04-boxplot-2-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-boxplot-2-of-3</loc>
+    <loc>http://localhost:3000/pages/p033-m04-boxplot-3-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-boxplot-3-of-3</loc>
+    <loc>http://localhost:3000/pages/p034-m04-standard-deviation-1-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-standard-deviation-1-of-3</loc>
+    <loc>http://localhost:3000/pages/p035-m04-standard-deviation-2-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-standard-deviation-2-of-3</loc>
+    <loc>http://localhost:3000/pages/p036-m04-standard-deviation-3-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-standard-deviation-3-of-3</loc>
+    <loc>http://localhost:3000/pages/p037-m04-wrap-up-distributions</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m04-wrap-up-distributions</loc>
+    <loc>http://localhost:3000/pages/p039-m05-examining-relationships</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-examining-relationships</loc>
+    <loc>http://localhost:3000/pages/p040-m05-the-role-type-classification-1-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-the-role-type-classification-1-of-2</loc>
+    <loc>http://localhost:3000/pages/p041-m05-the-role-type-classification-2-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-the-role-type-classification-2-of-2</loc>
+    <loc>http://localhost:3000/pages/p042-m05-case-c-q-1-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-case-c-q-1-of-2</loc>
+    <loc>http://localhost:3000/pages/p043-m05-case-c-q-2-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-case-c-q-2-of-2</loc>
+    <loc>http://localhost:3000/pages/p044-m05-case-c-c-1-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-case-c-c-1-of-2</loc>
+    <loc>http://localhost:3000/pages/p045-m05-case-c-c-2-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-case-c-c-2-of-2</loc>
+    <loc>http://localhost:3000/pages/p046-m05-case-q-q</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-case-q-q</loc>
+    <loc>http://localhost:3000/pages/p047-m05-scatterplot-1-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-scatterplot-1-of-5</loc>
+    <loc>http://localhost:3000/pages/p048-m05-scatterplot-2-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-scatterplot-2-of-5</loc>
+    <loc>http://localhost:3000/pages/p049-m05-scatterplot-3-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-scatterplot-3-of-5</loc>
+    <loc>http://localhost:3000/pages/p050-m05-scatterplot-4-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-scatterplot-4-of-5</loc>
+    <loc>http://localhost:3000/pages/p051-m05-scatterplot-5-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-scatterplot-5-of-5</loc>
+    <loc>http://localhost:3000/pages/p052-m05-linear-relationships-1-of-8</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-linear-relationships-1-of-8</loc>
+    <loc>http://localhost:3000/pages/p053-m05-linear-relationships-2-of-8</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-linear-relationships-2-of-8</loc>
+    <loc>http://localhost:3000/pages/p054-m05-linear-relationships-3-of-8</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-linear-relationships-3-of-8</loc>
+    <loc>http://localhost:3000/pages/p055-m05-linear-relationships-4-of-8</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-linear-relationships-4-of-8</loc>
+    <loc>http://localhost:3000/pages/p056-m05-linear-relationships-5-of-8</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-linear-relationships-5-of-8</loc>
+    <loc>http://localhost:3000/pages/p057-m05-linear-relationships-6-of-8</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-linear-relationships-6-of-8</loc>
+    <loc>http://localhost:3000/pages/p058-m05-linear-relationships-7-of-8</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-linear-relationships-7-of-8</loc>
+    <loc>http://localhost:3000/pages/p059-m05-linear-relationships-8-of-8</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-linear-relationships-8-of-8</loc>
+    <loc>http://localhost:3000/pages/p060-m05-causation-and-lurking-variables-1-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-causation-and-lurking-variables-1-of-5</loc>
+    <loc>http://localhost:3000/pages/p061-m05-causation-and-lurking-variables-2-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-causation-and-lurking-variables-2-of-5</loc>
+    <loc>http://localhost:3000/pages/p062-m05-causation-and-lurking-variables-3-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-causation-and-lurking-variables-3-of-5</loc>
+    <loc>http://localhost:3000/pages/p063-m05-causation-and-lurking-variables-4-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-causation-and-lurking-variables-4-of-5</loc>
+    <loc>http://localhost:3000/pages/p064-m05-causation-and-lurking-variables-5-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-causation-and-lurking-variables-5-of-5</loc>
+    <loc>http://localhost:3000/pages/p065-m05-wrap-up-relationships</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-wrap-up-relationships</loc>
+    <loc>http://localhost:3000/pages/p066-m05-summary-eda</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m05-summary-eda</loc>
+    <loc>http://localhost:3000/pages/p089-m08-probability</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m08-probability</loc>
+    <loc>http://localhost:3000/pages/p090-m08-introduction-to-probability-1-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m08-introduction-to-probability-1-of-5</loc>
+    <loc>http://localhost:3000/pages/p091-m08-introduction-to-probability-2-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m08-introduction-to-probability-2-of-5</loc>
+    <loc>http://localhost:3000/pages/p092-m08-introduction-to-probability-3-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m08-introduction-to-probability-3-of-5</loc>
+    <loc>http://localhost:3000/pages/p093-m08-introduction-to-probability-4-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m08-introduction-to-probability-4-of-5</loc>
+    <loc>http://localhost:3000/pages/p094-m08-introduction-to-probability-5-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m08-introduction-to-probability-5-of-5</loc>
+    <loc>http://localhost:3000/pages/p095-m08-relative-frequency-1-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m08-relative-frequency-1-of-2</loc>
+    <loc>http://localhost:3000/pages/p096-m08-relative-frequency-2-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m08-relative-frequency-2-of-2</loc>
+    <loc>http://localhost:3000/pages/p098-m09-finding-probability-of-events</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m09-finding-probability-of-events</loc>
+    <loc>http://localhost:3000/pages/p099-m09-sample-spaces-and-events-1-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m09-sample-spaces-and-events-1-of-2</loc>
+    <loc>http://localhost:3000/pages/p100-m09-sample-spaces-and-events-2-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m09-sample-spaces-and-events-2-of-2</loc>
+    <loc>http://localhost:3000/pages/p101-m09-equally-likely-outcomes-1-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m09-equally-likely-outcomes-1-of-2</loc>
+    <loc>http://localhost:3000/pages/p102-m09-equally-likely-outcomes-2-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m09-equally-likely-outcomes-2-of-2</loc>
+    <loc>http://localhost:3000/pages/p103-m09-probability-rules-1-of-11</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m09-probability-rules-1-of-11</loc>
+    <loc>http://localhost:3000/pages/p104-m09-probability-rules-2-of-11</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m09-probability-rules-2-of-11</loc>
+    <loc>http://localhost:3000/pages/p105-m09-probability-rules-3-of-11</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m09-probability-rules-3-of-11</loc>
+    <loc>http://localhost:3000/pages/p106-m09-probability-rules-4-of-11</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m09-probability-rules-4-of-11</loc>
+    <loc>http://localhost:3000/pages/p107-m09-probability-rules-5-of-11</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m09-probability-rules-5-of-11</loc>
+    <loc>http://localhost:3000/pages/p108-m09-probability-rules-6-of-11</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m09-probability-rules-6-of-11</loc>
+    <loc>http://localhost:3000/pages/p109-m09-probability-rules-7-of-11</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m09-probability-rules-7-of-11</loc>
+    <loc>http://localhost:3000/pages/p110-m09-probability-rules-8-of-11</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m09-probability-rules-8-of-11</loc>
+    <loc>http://localhost:3000/pages/p111-m09-probability-rules-9-of-11</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m09-probability-rules-9-of-11</loc>
+    <loc>http://localhost:3000/pages/p112-m09-probability-rules-10-of-11</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m09-probability-rules-10-of-11</loc>
+    <loc>http://localhost:3000/pages/p113-m09-probability-rules-11-of-11</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m09-probability-rules-11-of-11</loc>
+    <loc>http://localhost:3000/pages/p114-m09-wrap-up-finding-probability-of-events</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m09-wrap-up-finding-probability-of-events</loc>
+    <loc>http://localhost:3000/pages/p116-m10-conditional-probability-and-independence</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m10-conditional-probability-and-independence</loc>
+    <loc>http://localhost:3000/pages/p117-m10-conditional-probability-1-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m10-conditional-probability-1-of-2</loc>
+    <loc>http://localhost:3000/pages/p118-m10-conditional-probability-2-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m10-conditional-probability-2-of-2</loc>
+    <loc>http://localhost:3000/pages/p119-m10-independence-1-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m10-independence-1-of-2</loc>
+    <loc>http://localhost:3000/pages/p120-m10-independence-2-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m10-independence-2-of-2</loc>
+    <loc>http://localhost:3000/pages/p121-m10-the-general-multiplication-rule-1-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m10-the-general-multiplication-rule-1-of-2</loc>
+    <loc>http://localhost:3000/pages/p122-m10-the-general-multiplication-rule-2-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m10-the-general-multiplication-rule-2-of-2</loc>
+    <loc>http://localhost:3000/pages/p123-m10-probability-trees-1-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m10-probability-trees-1-of-3</loc>
+    <loc>http://localhost:3000/pages/p124-m10-probability-trees-2-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m10-probability-trees-2-of-3</loc>
+    <loc>http://localhost:3000/pages/p125-m10-probability-trees-3-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m10-probability-trees-3-of-3</loc>
+    <loc>http://localhost:3000/pages/p126-m10-wrap-up-conditional-probability-and-indep</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m10-wrap-up-conditional-probability-and-independen</loc>
+    <loc>http://localhost:3000/pages/p128-m11-random-variables-1-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-random-variables-1-of-2</loc>
+    <loc>http://localhost:3000/pages/p129-m11-random-variables-2-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-random-variables-2-of-2</loc>
+    <loc>http://localhost:3000/pages/p130-m11-discrete-random-variables</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-discrete-random-variables</loc>
+    <loc>http://localhost:3000/pages/p131-m11-probability-distribution-1-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-probability-distribution-1-of-5</loc>
+    <loc>http://localhost:3000/pages/p132-m11-probability-distribution-2-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-probability-distribution-2-of-5</loc>
+    <loc>http://localhost:3000/pages/p133-m11-probability-distribution-3-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-probability-distribution-3-of-5</loc>
+    <loc>http://localhost:3000/pages/p134-m11-probability-distribution-4-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-probability-distribution-4-of-5</loc>
+    <loc>http://localhost:3000/pages/p135-m11-probability-distribution-5-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-probability-distribution-5-of-5</loc>
+    <loc>http://localhost:3000/pages/p136-m11-mean-and-variance-of-a-random-variable-1-</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-mean-and-variance-of-a-random-variable-1-of-5</loc>
+    <loc>http://localhost:3000/pages/p137-m11-mean-and-variance-of-a-random-variable-2-</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-mean-and-variance-of-a-random-variable-2-of-5</loc>
+    <loc>http://localhost:3000/pages/p138-m11-mean-and-variance-of-a-random-variable-3-</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-mean-and-variance-of-a-random-variable-3-of-5</loc>
+    <loc>http://localhost:3000/pages/p139-m11-mean-and-variance-of-a-random-variable-4-</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-mean-and-variance-of-a-random-variable-4-of-5</loc>
+    <loc>http://localhost:3000/pages/p140-m11-mean-and-variance-of-a-random-variable-5-</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-mean-and-variance-of-a-random-variable-5-of-5</loc>
+    <loc>http://localhost:3000/pages/p141-m11-rules-for-means-and-variances-of-random-v</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-rules-for-means-and-variances-of-random-variab</loc>
+    <loc>http://localhost:3000/pages/p142-m11-rules-for-means-and-variances-of-random-v</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-rules-for-means-and-variances-of-random-variab-1</loc>
+    <loc>http://localhost:3000/pages/p143-m11-rules-for-means-and-variances-of-random-v</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-rules-for-means-and-variances-of-random-variab-2</loc>
+    <loc>http://localhost:3000/pages/p144-m11-binomial-random-variables-1-of-4</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-binomial-random-variables-1-of-4</loc>
+    <loc>http://localhost:3000/pages/p145-m11-binomial-random-variables-2-of-4</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-binomial-random-variables-2-of-4</loc>
+    <loc>http://localhost:3000/pages/p146-m11-binomial-random-variables-3-of-4</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-binomial-random-variables-3-of-4</loc>
+    <loc>http://localhost:3000/pages/p147-m11-binomial-random-variables-4-of-4</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-binomial-random-variables-4-of-4</loc>
+    <loc>http://localhost:3000/pages/p148-m11-continuous-random-variables</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-continuous-random-variables</loc>
+    <loc>http://localhost:3000/pages/p149-m11-probability-distribution-1-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-probability-distribution-1-of-2</loc>
+    <loc>http://localhost:3000/pages/p150-m11-probability-distribution-2-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-probability-distribution-2-of-2</loc>
+    <loc>http://localhost:3000/pages/p151-m11-introduction-to-normal-random-variables-1</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-introduction-to-normal-random-variables-1-of-3</loc>
+    <loc>http://localhost:3000/pages/p152-m11-introduction-to-normal-random-variables2-</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-introduction-to-normal-random-variables2-of-3</loc>
+    <loc>http://localhost:3000/pages/p153-m11-introduction-to-normal-random-variables-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-introduction-to-normal-random-variables-3-of-3</loc>
+    <loc>http://localhost:3000/pages/p154-m11-standard-normal-table-1-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-standard-normal-table-1-of-3</loc>
+    <loc>http://localhost:3000/pages/p155-m11-standard-normal-table-2-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-standard-normal-table-2-of-3</loc>
+    <loc>http://localhost:3000/pages/p156-m11-standard-normal-table-3-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-standard-normal-table-3-of-3</loc>
+    <loc>http://localhost:3000/pages/p157-m11-applications-1-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-applications-1-of-2</loc>
+    <loc>http://localhost:3000/pages/p158-m11-applications-2-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-applications-2-of-2</loc>
+    <loc>http://localhost:3000/pages/p159-m11-normal-approximation-to-the-binomial-1-of</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-normal-approximation-to-the-binomial-1-of-3</loc>
+    <loc>http://localhost:3000/pages/p160-m11-normal-approximation-to-the-binomial-2-of</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-normal-approximation-to-the-binomial-2-of-3</loc>
+    <loc>http://localhost:3000/pages/p161-m11-normal-approximation-to-the-binomial-3-of</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-normal-approximation-to-the-binomial-3-of-3</loc>
+    <loc>http://localhost:3000/pages/p162-m11-wrap-up-random-variables</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m11-wrap-up-random-variables</loc>
+    <loc>http://localhost:3000/pages/p164-m12-sampling-distributions</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m12-sampling-distributions</loc>
+    <loc>http://localhost:3000/pages/p165-m12-parameters-vs-statistics</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m12-parameters-vs-statistics</loc>
+    <loc>http://localhost:3000/pages/p166-m12-behavior-of-sample-proportion-1-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m12-behavior-of-sample-proportion-1-of-3</loc>
+    <loc>http://localhost:3000/pages/p167-m12-behavior-of-sample-proportion-2-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m12-behavior-of-sample-proportion-2-of-3</loc>
+    <loc>http://localhost:3000/pages/p168-m12-behavior-of-sample-proportion-3-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m12-behavior-of-sample-proportion-3-of-3</loc>
+    <loc>http://localhost:3000/pages/p169-m12-behavior-of-sample-mean-1-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m12-behavior-of-sample-mean-1-of-3</loc>
+    <loc>http://localhost:3000/pages/p170-m12-behavior-of-sample-mean-2-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m12-behavior-of-sample-mean-2-of-3</loc>
+    <loc>http://localhost:3000/pages/p171-m12-behavior-of-sample-mean-3-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m12-behavior-of-sample-mean-3-of-3</loc>
+    <loc>http://localhost:3000/pages/p172-m12-wrap-up-sampling-distributions</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m12-wrap-up-sampling-distributions</loc>
+    <loc>http://localhost:3000/pages/p173-m12-summary-probability</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m12-summary-probability</loc>
+    <loc>http://localhost:3000/pages/p174-m13-statistical-inference</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m13-statistical-inference</loc>
+    <loc>http://localhost:3000/pages/p176-m13-introduction-to-inference-1-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m13-introduction-to-inference-1-of-2</loc>
+    <loc>http://localhost:3000/pages/p177-m13-introduction-to-inference-2-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m13-introduction-to-inference-2-of-2</loc>
+    <loc>http://localhost:3000/pages/p178-m13-inference-for-one-variable</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m13-inference-for-one-variable</loc>
+    <loc>http://localhost:3000/pages/p180-m14-point-estimation-1-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m14-point-estimation-1-of-2</loc>
+    <loc>http://localhost:3000/pages/p181-m14-point-estimation-2-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m14-point-estimation-2-of-2</loc>
+    <loc>http://localhost:3000/pages/p182-m14-interval-estimation</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m14-interval-estimation</loc>
+    <loc>http://localhost:3000/pages/p183-m14-confidence-intervals-for-the-population-m</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m14-confidence-intervals-for-the-population-mean-1</loc>
+    <loc>http://localhost:3000/pages/p184-m14-confidence-intervals-for-the-population-m</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m14-confidence-intervals-for-the-population-mean-2</loc>
+    <loc>http://localhost:3000/pages/p185-m14-confidence-intervals-for-the-population-m</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m14-confidence-intervals-for-the-population-mean-3</loc>
+    <loc>http://localhost:3000/pages/p186-m14-confidence-intervals-for-the-population-m</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m14-confidence-intervals-for-the-population-mean-4</loc>
+    <loc>http://localhost:3000/pages/p187-m14-confidence-intervals-for-the-population-m</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m14-confidence-intervals-for-the-population-mean-5</loc>
+    <loc>http://localhost:3000/pages/p188-m14-confidence-intervals-for-the-population-m</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m14-confidence-intervals-for-the-population-mean-6</loc>
+    <loc>http://localhost:3000/pages/p189-m14-confidence-intervals-for-the-population-m</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m14-confidence-intervals-for-the-population-mean-7</loc>
+    <loc>http://localhost:3000/pages/p190-m14-confidence-intervals-for-the-population-m</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m14-confidence-intervals-for-the-population-mean-8</loc>
+    <loc>http://localhost:3000/pages/p191-m14-confidence-intervals-for-population-propo</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m14-confidence-intervals-for-population-proportion</loc>
+    <loc>http://localhost:3000/pages/p192-m14-confidence-intervals-for-population-propo</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m14-confidence-intervals-for-population-proportion-1</loc>
+    <loc>http://localhost:3000/pages/p193-m14-confidence-intervals-for-population-propo</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m14-confidence-intervals-for-population-proportion-2</loc>
+    <loc>http://localhost:3000/pages/p194-m14-confidence-intervals-for-population-propo</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m14-confidence-intervals-for-population-proportion-3</loc>
+    <loc>http://localhost:3000/pages/p196-m15-hypothesis-testing</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-hypothesis-testing</loc>
+    <loc>http://localhost:3000/pages/p197-m15-overview-1-of-4</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-overview-1-of-4</loc>
+    <loc>http://localhost:3000/pages/p198-m15-overview-2-of-4</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-overview-2-of-4</loc>
+    <loc>http://localhost:3000/pages/p199-m15-overview-3-of-4</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-overview-3-of-4</loc>
+    <loc>http://localhost:3000/pages/p200-m15-overview-4-of-4</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-overview-4-of-4</loc>
+    <loc>http://localhost:3000/pages/p201-m15-overview-wrap-up</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-overview-wrap-up</loc>
+    <loc>http://localhost:3000/pages/p202-m15-hypothesis-testing-for-the-population-pro</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-hypothesis-testing-for-the-population-proporti</loc>
+    <loc>http://localhost:3000/pages/p203-m15-hypothesis-testing-for-the-population-pro</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-hypothesis-testing-for-the-population-proporti-1</loc>
+    <loc>http://localhost:3000/pages/p204-m15-hypothesis-testing-for-the-population-pro</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-hypothesis-testing-for-the-population-proporti-2</loc>
+    <loc>http://localhost:3000/pages/p205-m15-hypothesis-testing-for-the-population-pro</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-hypothesis-testing-for-the-population-proporti-3</loc>
+    <loc>http://localhost:3000/pages/p206-m15-hypothesis-testing-for-the-population-pro</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-hypothesis-testing-for-the-population-proporti-4</loc>
+    <loc>http://localhost:3000/pages/p207-m15-hypothesis-testing-for-the-population-pro</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-hypothesis-testing-for-the-population-proporti-5</loc>
+    <loc>http://localhost:3000/pages/p208-m15-hypothesis-testing-for-the-population-pro</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-hypothesis-testing-for-the-population-proporti-6</loc>
+    <loc>http://localhost:3000/pages/p209-m15-hypothesis-testing-for-the-population-pro</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-hypothesis-testing-for-the-population-proporti-7</loc>
+    <loc>http://localhost:3000/pages/p210-m15-hypothesis-testing-for-the-population-pro</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-hypothesis-testing-for-the-population-proporti-8</loc>
+    <loc>http://localhost:3000/pages/p211-m15-hypothesis-testing-for-the-population-pro</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-hypothesis-testing-for-the-population-proporti-9</loc>
+    <loc>http://localhost:3000/pages/p212-m15-hypothesis-testing-for-the-population-pro</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-hypothesis-testing-for-the-population-proporti-10</loc>
+    <loc>http://localhost:3000/pages/p213-m15-hypothesis-testing-for-the-population-pro</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-hypothesis-testing-for-the-population-proporti-11</loc>
+    <loc>http://localhost:3000/pages/p214-m15-hypothesis-testing-for-the-population-pro</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-hypothesis-testing-for-the-population-proporti-12</loc>
+    <loc>http://localhost:3000/pages/p215-m15-hypothesis-testing-for-the-population-mea</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-hypothesis-testing-for-the-population-mean-1-o</loc>
+    <loc>http://localhost:3000/pages/p216-m15-hypothesis-testing-for-the-population-mea</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-hypothesis-testing-for-the-population-mean-2-o</loc>
+    <loc>http://localhost:3000/pages/p217-m15-hypothesis-testing-for-the-population-mea</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-hypothesis-testing-for-the-population-mean-3-o</loc>
+    <loc>http://localhost:3000/pages/p218-m15-hypothesis-testing-for-the-population-mea</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-hypothesis-testing-for-the-population-mean-4-o</loc>
+    <loc>http://localhost:3000/pages/p219-m15-hypothesis-testing-for-the-population-mea</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-hypothesis-testing-for-the-population-mean-5-o</loc>
+    <loc>http://localhost:3000/pages/p220-m15-hypothesis-testing-for-the-population-mea</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-hypothesis-testing-for-the-population-mean-6-o</loc>
+    <loc>http://localhost:3000/pages/p221-m15-hypothesis-testing-for-the-population-mea</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-hypothesis-testing-for-the-population-mean-7-o</loc>
+    <loc>http://localhost:3000/pages/p222-m15-hypothesis-testing-for-the-population-mea</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-hypothesis-testing-for-the-population-mean-8-o</loc>
+    <loc>http://localhost:3000/pages/p223-m15-hypothesis-testing-for-the-population-mea</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-hypothesis-testing-for-the-population-mean-9-o</loc>
+    <loc>http://localhost:3000/pages/p224-m15-wrap-up-hypothesis-testing</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-wrap-up-hypothesis-testing</loc>
+    <loc>http://localhost:3000/pages/p225-m15-type-i-and-type-ii-errors</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-type-i-and-type-ii-errors</loc>
+    <loc>http://localhost:3000/pages/p226-m15-wrap-up-type-i-and-type-ii-errors</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m15-wrap-up-type-i-and-type-ii-errors</loc>
+    <loc>http://localhost:3000/pages/p228-m16-introduction</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m16-introduction</loc>
+    <loc>http://localhost:3000/pages/p229-m16-case-c-q-1-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m16-case-c-q-1-of-2</loc>
+    <loc>http://localhost:3000/pages/p230-m16-case-c-q-2-of-2</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m16-case-c-q-2-of-2</loc>
+    <loc>http://localhost:3000/pages/p231-m16-two-independent-samples-1-of-7</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m16-two-independent-samples-1-of-7</loc>
+    <loc>http://localhost:3000/pages/p232-m16-two-independent-samples-2-of-7</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m16-two-independent-samples-2-of-7</loc>
+    <loc>http://localhost:3000/pages/p233-m16-two-independent-samples-3-of-7</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m16-two-independent-samples-3-of-7</loc>
+    <loc>http://localhost:3000/pages/p234-m16-two-independent-samples-4-of-7</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m16-two-independent-samples-4-of-7</loc>
+    <loc>http://localhost:3000/pages/p235-m16-two-independent-samples-5-of-7</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m16-two-independent-samples-5-of-7</loc>
+    <loc>http://localhost:3000/pages/p236-m16-two-independent-samples-6-of-7</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m16-two-independent-samples-6-of-7</loc>
+    <loc>http://localhost:3000/pages/p237-m16-two-independent-samples-7-of-7</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m16-two-independent-samples-7-of-7</loc>
+    <loc>http://localhost:3000/pages/p238-m16-matched-pairs-1-of-8</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m16-matched-pairs-1-of-8</loc>
+    <loc>http://localhost:3000/pages/p239-m16-matched-pairs-2-of-8</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m16-matched-pairs-2-of-8</loc>
+    <loc>http://localhost:3000/pages/p240-m16-matched-pairs-3-of-8</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m16-matched-pairs-3-of-8</loc>
+    <loc>http://localhost:3000/pages/p241-m16-matched-pairs-4-of-8</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m16-matched-pairs-4-of-8</loc>
+    <loc>http://localhost:3000/pages/p242-m16-matched-pairs-5-of-8</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m16-matched-pairs-5-of-8</loc>
+    <loc>http://localhost:3000/pages/p243-m16-matched-pairs-6-of-8</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m16-matched-pairs-6-of-8</loc>
+    <loc>http://localhost:3000/pages/p244-m16-matched-pairs-7-of-8</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m16-matched-pairs-7-of-8</loc>
+    <loc>http://localhost:3000/pages/p245-m16-matched-pairs-8-of-8</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m16-matched-pairs-8-of-8</loc>
+    <loc>http://localhost:3000/pages/p246-m16-anova-1-of-7</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m16-anova-1-of-7</loc>
+    <loc>http://localhost:3000/pages/p247-m16-anova-2-of-7</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m16-anova-2-of-7</loc>
+    <loc>http://localhost:3000/pages/p248-m16-anova-3-of-7</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m16-anova-3-of-7</loc>
+    <loc>http://localhost:3000/pages/p249-m16-anova-4-of-7</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m16-anova-4-of-7</loc>
+    <loc>http://localhost:3000/pages/p250-m16-anova-5-of-7</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m16-anova-5-of-7</loc>
+    <loc>http://localhost:3000/pages/p251-m16-anova-6-of-7</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m16-anova-6-of-7</loc>
+    <loc>http://localhost:3000/pages/p252-m16-anova-7-of-7</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m16-anova-7-of-7</loc>
+    <loc>http://localhost:3000/pages/p253-m16-conclusion-of-case-c-q</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m16-conclusion-of-case-c-q</loc>
+    <loc>http://localhost:3000/pages/p255-m17-case-c-c-1-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m17-case-c-c-1-of-5</loc>
+    <loc>http://localhost:3000/pages/p256-m17-case-c-c-2-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m17-case-c-c-2-of-5</loc>
+    <loc>http://localhost:3000/pages/p257-m17-case-c-c-3-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m17-case-c-c-3-of-5</loc>
+    <loc>http://localhost:3000/pages/p258-m17-case-c-c-4-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m17-case-c-c-4-of-5</loc>
+    <loc>http://localhost:3000/pages/p259-m17-case-c-c-5-of-5</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m17-case-c-c-5-of-5</loc>
+    <loc>http://localhost:3000/pages/p260-m17-case-q-q-1-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m17-case-q-q-1-of-3</loc>
+    <loc>http://localhost:3000/pages/p261-m17-case-q-q-2-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m17-case-q-q-2-of-3</loc>
+    <loc>http://localhost:3000/pages/p262-m17-case-q-q-3-of-3</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m17-case-q-q-3-of-3</loc>
+    <loc>http://localhost:3000/pages/p263-m17-wrap-up-inference-for-relationships</loc>
   </url>
   <url>
-    <loc>http://localhost:3000/pages/m17-wrap-up-inference-for-relationships</loc>
-  </url>
-  <url>
-    <loc>http://localhost:3000/pages/m17-summary-inference</loc>
+    <loc>http://localhost:3000/pages/p264-m17-summary-inference</loc>
   </url>
   <url>
     <loc>http://localhost:3000/pages/glossary</loc>
