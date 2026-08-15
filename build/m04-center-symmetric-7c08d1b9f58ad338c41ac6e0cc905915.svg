@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 640 260">
+  <!-- Generator: Adobe Illustrator 30.7.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 114)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke: #c53030;
+        stroke-dasharray: 6 4;
+        stroke-width: 2px;
+      }
+
+      .st0, .st1 {
+        fill: none;
+      }
+
+      .st2 {
+        fill: #c53030;
+        font-family: Helvetica-Bold, Helvetica;
+        font-size: 15px;
+        font-weight: 700;
+      }
+
+      .st2, .st3 {
+        isolation: isolate;
+      }
+
+      .st3 {
+        fill: #333;
+        font-family: Helvetica-Oblique, Helvetica;
+        font-size: 14px;
+        font-style: oblique;
+      }
+
+      .st1 {
+        stroke: #333;
+        stroke-width: 1.5px;
+      }
+
+      .st4 {
+        fill: #7cb2e8;
+        fill-opacity: .35;
+        stroke: #2b6cb0;
+        stroke-width: 2.5px;
+      }
+    </style>
+  </defs>
+  <path class="st4" d="M80,220c120-5,160-160,240-160s120,155,240,160"/>
+  <line class="st0" x1="320" y1="60" x2="320" y2="220"/>
+  <text class="st2" transform="translate(273.45 42)"><tspan x="0" y="0">Mean = Median</tspan></text>
+  <line class="st1" x1="60" y1="220" x2="580" y2="220"/>
+  <text class="st3" transform="translate(199.39 248)"><tspan x="0" y="0">Symmetric: mean and median coincide</tspan></text>
+</svg>

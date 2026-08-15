@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 640 330">
+  <!-- Generator: Adobe Illustrator 30.7.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 114)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: Helvetica-Oblique, Helvetica;
+        font-style: oblique;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5 {
+        isolation: isolate;
+      }
+
+      .st0, .st3 {
+        fill: #c53030;
+      }
+
+      .st0, .st3, .st4, .st5 {
+        font-size: 13px;
+      }
+
+      .st1 {
+        font-size: 15px;
+      }
+
+      .st1, .st3, .st4 {
+        font-family: Helvetica-Bold, Helvetica;
+        font-weight: 700;
+      }
+
+      .st1, .st4, .st6, .st5 {
+        fill: #333;
+      }
+
+      .st7 {
+        fill: none;
+        stroke: #2b6cb0;
+        stroke-width: 2px;
+      }
+
+      .st8 {
+        fill: #2b6cb0;
+      }
+
+      .st5 {
+        font-family: Helvetica, Helvetica;
+      }
+    </style>
+  </defs>
+  <text class="st1" transform="translate(136.63 24)"><tspan x="0" y="0">Probability Tree: Commission (C), then Vacation (V)</tspan></text>
+  <circle class="st6" cx="70" cy="170" r="6"/>
+  <g>
+    <line class="st7" x1="70" y1="170" x2="240" y2="95"/>
+    <line class="st7" x1="70" y1="170" x2="240" y2="245"/>
+    <line class="st7" x1="240" y1="95" x2="410" y2="60"/>
+    <line class="st7" x1="240" y1="95" x2="410" y2="130"/>
+    <line class="st7" x1="240" y1="245" x2="410" y2="210"/>
+    <line class="st7" x1="240" y1="245" x2="410" y2="280"/>
+  </g>
+  <circle class="st8" cx="240" cy="95" r="5"/>
+  <circle class="st8" cx="240" cy="245" r="5"/>
+  <g>
+    <text class="st4" transform="translate(99.19 119)"><tspan x="0" y="0">C: 0.4</tspan></text>
+    <text class="st4" transform="translate(89.19 232)"><tspan x="0" y="0">not C: 0.6</tspan></text>
+    <text class="st4" transform="translate(259.19 66)"><tspan x="0" y="0">V | C: 0.9</tspan></text>
+    <text class="st4" transform="translate(254.19 134)"><tspan x="0" y="0">not V | C: 0.1</tspan></text>
+    <text class="st4" transform="translate(249.19 216)"><tspan x="0" y="0">V | not C: 0.3</tspan></text>
+    <text class="st4" transform="translate(244.19 286)"><tspan x="0" y="0">not V | not C: 0.7</tspan></text>
+  </g>
+  <g>
+    <g class="st2">
+      <text class="st5" transform="translate(425 64)"><tspan x="0" y="0">P(C and V) = 0.4 × 0.9 = </tspan></text>
+      <text class="st3" transform="translate(569.89 64)"><tspan x="0" y="0">0.36</tspan></text>
+    </g>
+    <text class="st5" transform="translate(425 134)"><tspan x="0" y="0">P(C and not V) = 0.04</tspan></text>
+    <g class="st2">
+      <text class="st5" transform="translate(425 214)"><tspan x="0" y="0">P(not C and V) = 0.6 × 0.3 = </tspan></text>
+      <text class="st3" transform="translate(591.58 214)"><tspan x="0" y="0">0.18</tspan></text>
+    </g>
+    <text class="st5" transform="translate(425 284)"><tspan x="0" y="0">P(not C and not V) = 0.42</tspan></text>
+  </g>
+  <text class="st0" transform="translate(246.82 318)"><tspan x="0" y="0">P(V) = 0.36 + 0.18 = 0.54</tspan></text>
+</svg>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 640 315">
+  <!-- Generator: Adobe Illustrator 30.7.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 114)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8 {
+        isolation: isolate;
+      }
+
+      .st1, .st6, .st9 {
+        fill: #333;
+      }
+
+      .st1, .st6, .st7 {
+        font-family: Helvetica-Oblique, Helvetica;
+        font-style: oblique;
+      }
+
+      .st1, .st7 {
+        font-size: 13px;
+      }
+
+      .st2 {
+        fill: #c53030;
+      }
+
+      .st2, .st3, .st6 {
+        font-size: 14px;
+      }
+
+      .st2, .st5, .st8 {
+        font-family: Helvetica-Bold, Helvetica;
+        font-weight: 700;
+      }
+
+      .st10 {
+        fill: #eaf2fb;
+        stroke: #2b6cb0;
+        stroke-width: 2px;
+      }
+
+      .st3, .st4 {
+        font-family: Helvetica, Helvetica;
+      }
+
+      .st3, .st4, .st5, .st7, .st8 {
+        fill: #2b6cb0;
+      }
+
+      .st4, .st5 {
+        font-size: 15px;
+      }
+
+      .st8 {
+        font-size: 16px;
+      }
+    </style>
+  </defs>
+  <ellipse class="st10" cx="170" cy="145" rx="130" ry="105"/>
+  <text class="st8" transform="translate(126.01 125)"><tspan x="0" y="0">Population:</tspan></text>
+  <text class="st4" transform="translate(123.73 147)"><tspan x="0" y="0">all U.S. adults</tspan></text>
+  <text class="st7" transform="translate(130.08 172)"><tspan x="0" y="0">% in favor = ?</tspan></text>
+  <path class="st0" d=""/>
+  <path class="st9" d="M382.4,98l14,7-14,7v-14Z"/>
+  <path class="st9" d="M395,105" marker-end="url(#arr)"/>
+  <text class="st1" transform="translate(305.2 88)"><tspan x="0" y="0">random sample</tspan></text>
+  <circle class="st10" cx="475" cy="130" r="72"/>
+  <text class="st5" transform="translate(445.82 112)"><tspan x="0" y="0">Sample:</tspan></text>
+  <text class="st3" transform="translate(436.86 133)"><tspan x="0" y="0">1,200 adults</tspan></text>
+  <text class="st2" transform="translate(433.76 158)"><tspan x="0" y="0">62% in favor</tspan></text>
+  <text class="st6" transform="translate(93.63 274.32)"><tspan x="0" y="0">How close is the sample&apos;s 62% likely to be to the population percentage?</tspan></text>
+  <rect class="st9" x="313" y="103" width="69.4" height="3"/>
+</svg>
